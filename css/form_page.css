@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', arial, sans-serif;
+}
+#contact-us {
+	background-image: url('../img/background/art-background-bright.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#contact-us .header {
+	width: 640px;
+    margin: 0 auto;
+}
+#contact-us .logo {
+    max-width: 120px;
+}
