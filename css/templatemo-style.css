@@ -230,7 +230,9 @@ p {
 	font-size: 36px;
 	font-weight: 400;
 	color: #fff;
-	background-color: rgba(0, 0, 0, 0.7)
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 10px;
+    border-radius: 10px;
 }
 
 .baner-content .text-content h2 span {
@@ -756,6 +758,10 @@ footer .contact-info ul li {
 footer .contact-info ul li em {
 	font-style: normal;
 	font-weight: 500;
+}
+
+footer .connect-us {
+	padding-top: 20px;
 }
 
 footer .connect-us h4 {
