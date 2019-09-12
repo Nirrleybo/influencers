@@ -250,7 +250,6 @@ p {
 	background-image: url(../img/background/background-carpentry-construction.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-attachment: fixed;
 }
 
 #about .service-item {
